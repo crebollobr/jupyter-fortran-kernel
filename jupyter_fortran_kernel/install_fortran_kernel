@@ -16,8 +16,8 @@ kernel_json = {
         "-f",
         "{connection_file}"
     ],
-    "display_name": "C",
-    "language": "c"
+    "display_name": "Fortran",
+    "language": "fortran"
 }
 
 
